@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Rebot
+Reinvente-se com a ajuda da tecnologia
 
 ## 📒 Descrição
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- https://chatgpt.com/ criação de roteiro para Trailler e prompts para gerar video Trailer
+- https://invideo.io/ai/ Criação de Video Trailer
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Estava sem ideia alguma , fui na "solução" da falta de ideias,  ChatGpt falei do desafio, que nao tinha ideia mas que poderia pensar num universo paralelo onde uma pessoa exausta do dia a dia ia para um Spa composto de Inteligencia artificial por exemplo a sessao de psicologia era com um chat de inteligencia artificial e a pessoa ficava com o corpo perfeito depois de passar pela ia Generativa de imagens
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O video trailler do filme Ficticio ficou interessante, não  deu muito certo gerar imagens
+Foi interessante, o Chat Gpt é um entusiasta de projetos
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Ate diria algo, mas o  ja deu minha cota de uso do Chat Gpt hoje
 ```
 
 ### Exemplos e Insigths
